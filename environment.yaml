@@ -1,0 +1,8 @@
+name: jlab_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - python=3.9
+prefix: C:\Users\Dr Isha\miniconda3\envs\jlab_env
